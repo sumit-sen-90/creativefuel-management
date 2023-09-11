@@ -1,0 +1,14 @@
+.login_main_div {
+  background-color: #22394f;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #101d28;
+  padding: 1rem;
+  width: 26rem;
+  border-radius: 1rem;
+  color: white;
+}

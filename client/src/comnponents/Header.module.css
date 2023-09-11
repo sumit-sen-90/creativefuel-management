@@ -1,0 +1,12 @@
+.navbar_container {
+  background-color: #22394f;
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.nav_item{
+   color: antiquewhite;
+}
+.nav_item:hover{
+   color: rgb(144, 146, 149);
+}
